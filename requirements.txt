@@ -1,0 +1,7 @@
+vosk
+edge-tts
+gtts
+pyaudio
+python-pulse
+pyyaml
+numpy
